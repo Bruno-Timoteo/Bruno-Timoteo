@@ -1,4 +1,3 @@
-<img width="1031" height="1460" alt="earth" src="https://github.com/user-attachments/assets/ed0e9094-6173-44ff-a799-55d4dea43f4b" />
 ## Saudações!!
 
 Os meus repositórios são basicamente um diário de estudos 📖; sinta-se à vontade para ler!
@@ -17,4 +16,4 @@ Sobre mim:
 
 Sempre há esperança no mundo 🌻
 
-![Esperança](https://i.ibb.co/27zjn735/earth.png)
+<img width="1031" height="1460" alt="earth" src="https://github.com/user-attachments/assets/ed0e9094-6173-44ff-a799-55d4dea43f4b" />
