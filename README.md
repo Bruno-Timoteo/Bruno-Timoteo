@@ -10,7 +10,7 @@ Sobre mim:
 - Utilizo Fedora Linux 🐧
 - De vez em quando brinco com Frontend 🖼️
 - Gosto de ouvir música e andar no parque 🌲
-- Mr. Robot é minha série favorita 📺
+- Atualmente assistindo The Mentalist 📺
 
 ###
 
