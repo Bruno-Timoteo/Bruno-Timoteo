@@ -14,8 +14,8 @@ Sobre mim:
 
 ###
 
-Sempre há esperança no mundo 💐
+Sempre há esperança no mundo 🌻
 
 <div align="center">
-  <img height="800" src="https://i.ibb.co/27zjn735/earth.png"  />
+  <img src="https://i.ibb.co/27zjn735/earth.png"/>
 </div>
