@@ -4,7 +4,7 @@ Os meus repositórios são basicamente um diário de estudos; sinta-se à vontad
 
 Tenho um romance especial pela Segurança Cibernética. Desejo, no futuro, poder trabalhar com Engenharia Reversa. 👾 
 
-###
+##
 
 Sobre mim:
 - Utilizo Fedora Linux 🐧
@@ -12,7 +12,7 @@ Sobre mim:
 - Gosto de ouvir música e andar no parque 🌲
 - Atualmente assistindo The Mentalist 📺
 
-###
+##
 
 Sempre há esperança no mundo 🌥️
 
