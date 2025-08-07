@@ -2,7 +2,7 @@
 
 Os meus repositórios são basicamente um diário de estudos; sinta-se à vontade para ler! 📖
 
-Tenho um romance especial pela Segurança Cibernética. Desejo, no futuro, poder trabalhar com Engenharia Reversa. 👾 
+Tenho um romance especial pela Segurança Cibernética. Desejo, no futuro, poder trabalhar com Engenharia Reversa ou com OffSec. 👾 
 
 ##
 
