@@ -22,4 +22,4 @@ Sobre mim:
 
 Sempre há esperança no mundo 🌥️
 
-<img width="1031" height="1460" alt="Esperança" src="https://github.com/user-attachments/assets/ed0e9094-6173-44ff-a799-55d4dea43f4b" />
+<img src="https://github.com/user-attachments/assets/028a0f27-37e6-4e2c-b361-918a2653eb21"/>
