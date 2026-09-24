@@ -1,15 +1,17 @@
-## Saudações!!
+## Olá!!
 
-Os meus repositórios são basicamente um diário de estudos; sinta-se à vontade para ler! 📖
+Os meus repositórios são um caderno aberto de estudos ou de projetos.
 
-Tenho um interesse especial pela Segurança Cibernética. Desejo, no futuro, poder trabalhar com Segurança Ofensiva, especialmente com Pentesting e Engenharia Reversa. 👾 
+Tenho um interesse especial pela Segurança Cibernética. Desejo poder trabalhar com Segurança Ofensiva, especialmente com Pentesting e Engenharia Reversa.
+
+De vez em quando também mexo com Frontend.
 
 ##
 
 Sobre mim:
 - Utilizo Fedora Linux 🐧
-- De vez em quando brinco com Frontend 🖼️
+- Gosto muito de música 🎵
+- Fã de Blade Runner 🌧️
 
 ##
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bruno-Timoteo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Bruno-Timoteo&langs_count=5&theme=nord)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=5&theme=nord)
