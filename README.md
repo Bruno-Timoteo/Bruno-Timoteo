@@ -1,6 +1,6 @@
 ## Olá!!
 
-Os meus repositórios são um caderno aberto de estudos ou de projetos.
+Os meus repositórios são um caderno aberto de estudos ou de projetos. Fique à vontade para olhar.
 
 Tenho um interesse especial pela Segurança Cibernética. Desejo poder trabalhar com Segurança Ofensiva, especialmente com Pentesting e Engenharia Reversa.
 
